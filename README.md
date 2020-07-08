@@ -12,7 +12,6 @@
 9. Провести валидацию json схемы модели User ( в python доступно с помощью from jsonschema import validate )
 10.Проверить,что при попытке удаления/обновления user с несуществующим id response отдает корректный код ошибки (404)
 
-
 ### Requirements
 ```
 requests==2.23.0
